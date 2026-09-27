@@ -1,0 +1,15 @@
+input.mp4
+clean_audio.wav
+video_no_audio.mp4
+output1.mp4
+
+*.asv
+*.autosave
+*.m~
+*.mlx~
+
+slprj/
+codegen/
+
+.DS_Store
+Thumbs.db
